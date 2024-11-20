@@ -19,6 +19,7 @@ This Python project scrapes and collects Valorant player statistics from [VLR.gg
 - `ThreadPoolExecutor`: For concurrent scraping to speed up data collection.
 
 ## Installation
+**Download the requiremnets.txt from the repository.**
 
 To use this project, clone the repository and install the required dependencies:
 
