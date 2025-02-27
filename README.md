@@ -24,6 +24,6 @@ This Python project scrapes and collects Valorant player statistics from [VLR.gg
 To use this project, clone the repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/your-username/valorant-data-collector.git
+git clone https://github.com/yuji1702/valorant-data-collector.git
 cd valorant-data-collector
 pip install -r requirements.txt
